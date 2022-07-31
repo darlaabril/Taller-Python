@@ -8,19 +8,18 @@ El curso está dirigido a los practicantes del Laboratorio de Inteligencia Artif
 
 ## 3. Contenido 
 1.  Introducción a Python 3.x
-2. Github
-3. Tipos de datos básicos
-4.  Listas
+2. Tipos de datos básicos
+3.  Listas
 
-5. Control de Flujos
-6. Funciones
-7. Diccionarios
+4. Control de Flujos
+5. Funciones
+6. Diccionarios
 
-8. Numpy:
+7. Numpy:
 
-9. Pandas
+8. Pandas
 
 
-10. Visualización de datos 
+9. Gráficos 
 
 
